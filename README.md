@@ -1,4 +1,4 @@
-Yo, I'm a developer. I develope minecraft mods, c# programs, C stuff, and stuff.
+Hey, I make Java and C# Stuff
 
 You can contact me on Discord: Randumbdude#4953
 
