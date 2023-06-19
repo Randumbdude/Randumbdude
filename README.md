@@ -1,4 +1,4 @@
-Hey, I make Java and C# Stuff
+Hey, I make Java, C#, and C++ Stuff
 
 You can contact me on Discord: randumbdude  or  Randumbdude#4953
 
