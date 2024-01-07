@@ -1,5 +1,4 @@
 ### Hey, I make Java, C#, and C/C++ Stuff
-Im Currently doing lots of osdev stuff...
 
 #### Discord: randumbdude  or  Randumbdude#4953
 
